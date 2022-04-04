@@ -1,6 +1,6 @@
 # Goose Finance
 
-https://goosedefi.com Feel free to read the code. More details coming soon.
+https://goosedefi.com Feel free to read the code. 
 
 ## Deployed Contracts / Hash
 
